@@ -4,6 +4,7 @@
 ###Salted pork
 * 1 lb pork
 * 1 tsp salt
+
 ###Soup
 * 6 cups water (1.5L)
 * 50g ginger root, sliced
@@ -13,12 +14,15 @@
 * 2 Tbsp sake
 * 1 tsp salt
 * 1 tsp sesame oil
+
 ###Noodles
 * 9 oz fresh angel hair pasta (225g)
 * 8 cups water (2L)
 * 2 Tbsp baking soda
+
 ###Topping
 * Boiled egg halves
 * Bean sprouts, blanched briefly
 * Green onions, cut finely
 ##Instructions
+none

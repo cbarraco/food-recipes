@@ -18,7 +18,7 @@ Makes 4 portions
 * 1 teaspoons of sesame oil
 
 ###Noodles
-* 9 ounces of noodles
+* 9 ounces of soba noodles
 * 8 cups of water
 * 2 tablespoons of baking soda
 
@@ -33,5 +33,6 @@ Makes 4 portions
 3. **Simmer** the broth for 1.5 hours.
 4. **Prepare** the toppings. Hard boil the eggs, blanch the bean sprouts, slice the green onions, and the pork.
 5. **Boil** the broth again and add the soy sauce, sake, salt and sesame oil.
-6. **Add** the noodles and water to a pot and cook for 30 seconds, and strain.
-7. **Divide** the noodles into bowls and add the broth to the noodles. Top with the boiled egg halves, bean sprouts, green onions, and sliced pork.
+6. **Boil** water, reduce to medium, and cook noodles for 2 minutes.
+7. **Divide** the noodles into bowls and add the broth.
+8. **Top** with the boiled egg halves, bean sprouts, green onions, and sliced pork.

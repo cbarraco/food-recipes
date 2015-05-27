@@ -9,8 +9,8 @@ Makes 4 portions
 
 ###Broth
 * 6 cups of water
-* 1 thumb of skinned ginger root
-* 3 cloves of garlic
+* 1 thumb of skinned and sliced ginger root
+* 3 cloves of crushed garlic
 * 1 bunch of green onions
 * 4 tablespoons of soy sauce
 * 2 tablespoons of sake
@@ -31,7 +31,7 @@ Makes 4 portions
 1. **Rub** salt on the pork and let it sit in the fridge overnight.
 2. **Add** the water, ginger root, garlic, green onions, and salted pork to the pot and bring it to a  boil.
 3. **Simmer** the broth for 1.5 hours.
-4. **Prepare** the toppings. Hard boil the eggs, blanch the bean sprouts, slice the green onions, and the pork.
+4. **Prepare** the toppings. Hard boil the eggs, blanch the bean sprouts, slice the green onions and pork.
 5. **Boil** the broth again and add the soy sauce, sake, salt and sesame oil.
 6. **Boil** water, reduce to medium, and cook noodles for 2 minutes.
 7. **Divide** the noodles into bowls and add the broth.

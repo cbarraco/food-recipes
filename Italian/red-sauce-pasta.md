@@ -26,5 +26,5 @@ Makes 4 portions
 4. **Add** the crushed tomatoes to the pot and stir.
 5. **Boil** the sauce and simmer on low for 4 hours stirring every 15 minutes.
 6. **Add** the basil to the sauce 30 minutes before the end.
-7. **Boil** the water for the pasta. Add the pasta, reduce to medium and cook for 10 minutes.
+7. **Boil** the water for the pasta. Add the pasta, reduce to medium heat, and cook for 10 minutes.
 8. **Divide** the pasta into bowls and spoon the sauce overtop.

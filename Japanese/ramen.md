@@ -5,14 +5,14 @@ Makes 4 portions
 ##Ingredients
 ###Salted pork
 * 1 pound of pork loin
-* 1 teaspoon salt
+* 1 teaspoon of salt
 
 ###Soup
 * 6 cups of water
 * 1 thumb of skinned ginger root
 * 3 cloves of garlic
-* 1 bunch green onions
-* 4 tablespoons soy sauce
+* 1 bunch of green onions
+* 4 tablespoons of soy sauce
 * 2 tablespoons of sake
 * 1 teaspoons of salt
 * 1 teaspoons of sesame oil

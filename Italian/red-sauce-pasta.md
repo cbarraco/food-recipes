@@ -22,9 +22,9 @@ Makes 4 portions
 ##Instructions
 1. **Prepare** the ingredients for the sauce. Peel and slice the garlic, finely chop the onion.
 2. **Add** the extra virgin olive oil, butter, garlic, onion, salt, black pepper, and oregano to the pot.
-3. **Cook** for about 5 minutes until onions are translucent.
+3. **Cook** on medium heat for about 5 minutes until onions are translucent.
 4. **Add** the crushed tomatoes to the pot and stir.
-5. **Boil** the sauce and simmer on low for 4 hours stirring every 15 minutes.
+5. **Boil** the sauce and simmer on low heat for 4 hours stirring every 15 minutes.
 6. **Add** the basil to the sauce 30 minutes before the end.
 7. **Boil** the water for the pasta. Add the pasta, reduce to medium heat, and cook for 10 minutes.
 8. **Divide** the pasta into bowls and spoon the sauce overtop.

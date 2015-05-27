@@ -7,7 +7,7 @@ Makes 4 portions
 * 1 pound of pork loin
 * 1 teaspoon of salt
 
-###Soup
+###Broth
 * 6 cups of water
 * 1 thumb of skinned ginger root
 * 3 cloves of garlic

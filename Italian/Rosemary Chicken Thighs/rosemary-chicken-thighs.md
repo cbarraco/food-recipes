@@ -1,5 +1,5 @@
 #Rosemary Chicken Thighs
-![](rosemary-chicken-thighs.jpg)
+![rosemary chicken thighs](https://github.com/CarloBarraco/Recipes/raw/master/Italian/rosemary-chicken-thighs.jpg)
 
 Makes 4 portions
 #Ingredients
@@ -12,7 +12,7 @@ Makes 4 portions
 * 1 cup of white wine
 
 #Instructions
-1. **Season** the chicken thighs with the salt and pepper.
+1. **Season** the chicken thighs with the salt and black pepper.
 2. **Add** the extra virgin olive oil and chicken thighs to a medium-high heat pan.
 3. **Cook** the chicken thighs for 5 minutes until brown on both sides.
 4. **Reduce** the heat to low.

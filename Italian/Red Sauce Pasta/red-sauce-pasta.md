@@ -1,5 +1,5 @@
 #Red Sauce Pasta
-![](red-sauce-pasta.jpg)
+![red sauce pasta](https://github.com/CarloBarraco/Recipes/raw/master/Italian/red-sauce-pasta.jpg)
 
 Makes 4 portions
 

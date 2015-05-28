@@ -1,5 +1,5 @@
 #Rosemary Chicken Thighs
-![](rosemary-chicken-thighs.jpg)
+![rosemary chicken thighs](https://github.com/CarloBarraco/Recipes/raw/master/Italian/rosemary-chicken-thighs.jpg)
 
 Makes 4 portions
 #Ingredients

@@ -1,5 +1,5 @@
 #Ramen
-![ramen](ramen.jpg)
+![ramen](https://github.com/CarloBarraco/Recipes/raw/master/Japanese/ramen.jpg)
 
 Makes 4 portions
 ##Ingredients

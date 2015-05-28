@@ -10,6 +10,7 @@ Makes 4 portions
 * 1 sprig of fresh rosemary or 1 tablespoon of dried rosemary
 * 1 bulb of peeled and crushed garlic
 * 1 cup of white wine
+
 #Instructions
 1. **Season** the chicken thighs with the salt and pepper.
 2. **Add** the extra virgin olive oil and chicken thighs to a medium-high heat pan.

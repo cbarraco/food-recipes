@@ -13,7 +13,7 @@ Makes 4 portions
 * 1 tablespoon of oregano
 * 1 teaspoon of salt
 * 1 teaspoon of black pepper
-* 10 leaves of basil
+* 1 sprig of basil
 
 ###Pasta
 * 9 ounces of pasta
@@ -24,7 +24,8 @@ Makes 4 portions
 2. **Add** the extra virgin olive oil, butter, garlic, onion, salt, black pepper, and oregano to the pot.
 3. **Cook** on medium heat for about 5 minutes until onions are translucent.
 4. **Add** the crushed tomatoes to the pot and stir.
-5. **Boil** the sauce and simmer on low heat for 4 hours stirring every 15 minutes.
-6. **Add** the basil to the sauce 30 minutes before the end.
+5. **Boil** the sauce and simmer on low heat for 1 hour stirring every 10 minutes.
+6. **Separate** the basil leaves from the stem and add them both to the sauce.
 7. **Boil** the water for the pasta. Add the pasta, reduce to medium heat, and cook for 10 minutes.
-8. **Divide** the pasta into bowls and spoon the sauce overtop.
+8. **Remove** the basil stem from the sauce.
+9. **Divide** the pasta into bowls and spoon the sauce overtop.

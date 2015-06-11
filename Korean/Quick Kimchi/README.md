@@ -6,7 +6,7 @@
 * 1 tablespoon of rice wine vinegar
 * 1 quarter of a nappa cabbage
 * 3 cloves of minced garlic
-* 1 teaspoon of salt
+* 1 tablespoon of salt
 
 ##Instructions
 1. **Shred** the quarter of nappa cabbage

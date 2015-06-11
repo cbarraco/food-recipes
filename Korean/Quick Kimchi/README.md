@@ -1,5 +1,5 @@
 #Quick Kimchi
-![Quick Kimchi](https://github.com/CarloBarraco/Recipes/raw/master/Korean/Quick%20Kimchi.jpg)
+![Quick Kimchi](https://github.com/CarloBarraco/Recipes/raw/master/Korean/quickkimchi.jpg)
 
 ##Ingredients
 * 1 tablespoon of sambal oelek

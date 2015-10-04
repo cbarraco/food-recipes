@@ -1,5 +1,4 @@
-#Red Sauce Pasta
-![red sauce pasta](https://github.com/CarloBarraco/Recipes/raw/master/Italian/Red%20Sauce%20Pasta/red-sauce-pasta.jpg)
+#Red Sauce
 
 Makes 4 portions
 
@@ -15,17 +14,13 @@ Makes 4 portions
 * 1 teaspoon of black pepper
 * 1 sprig of basil
 
-###Pasta
-* 9 ounces of pasta
-* 6 cups of water
-
 ##Instructions
-1. **Prepare** the ingredients for the sauce. Peel and slice the garlic, finely chop the onion.
+1. **Peel** and finely chop the garlic and the onion.
 2. **Add** the extra virgin olive oil, butter, garlic, onion, salt, black pepper, and oregano to the pot.
 3. **Cook** on medium heat for about 5 minutes until onions are translucent.
 4. **Add** the crushed tomatoes to the pot and stir.
-5. **Boil** the sauce and simmer on low heat for 1 hour stirring every 10 minutes.
+5. **Boil** the sauce and simmer on low heat for 4 hours stirring every 15 minutes.
 6. **Separate** the basil leaves from the stem and add them both to the sauce.
-7. **Boil** the water for the pasta. Add the pasta, reduce to medium heat, and cook for 10 minutes.
-8. **Remove** the basil stem from the sauce.
-9. **Divide** the pasta into bowls and spoon the sauce overtop.
+    Note: This step should be done 15 minutes before serving to preserve the freshness of the basil.
+7. **Remove** the basil stem from the sauce.
+8. **Spoon** the sauce over pasta noodles.

@@ -1,3 +1,3 @@
 # Recipes
 
-Some recipes that I like.
+Some recipes I like

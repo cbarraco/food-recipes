@@ -10,11 +10,9 @@
 * 1 sprig of basil leaves
 
 ##Instructions
-1. Roughly chop the tomatoes into 1 inch pieces.
-2. Peel and finely chop the garlic and the onion.
-3. Add the olive oil, butter, garlic, onion, and oregano to a medium heat pot.
-4. Season the onions and garlic
-5. Cook for about 5 minutes stirring constantly until onions are translucent.
-6. Add the chopped tomatoes to the pot and stir.
-7. Simmer on the lowest heat setting for 8 hours stirring every 30 minutes.
-8. Add fresh basil leaves before serving.
+1. Add the olive oil, butter, garlic, onion, and oregano to a medium heat pot.
+2. Season the onions and garlic.
+3. Cook for about 5 minutes stirring constantly until onions are translucent.
+4. Add the chopped tomatoes to the pot and stir.
+5. Simmer on the lowest heat setting for 8 hours stirring every 30 minutes.
+6. Add fresh basil leaves before serving.

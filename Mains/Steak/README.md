@@ -1,4 +1,4 @@
-#Fried Strip Loin Steak
+#Pan Fried Strip Loin Steak
 
 ##Ingredients
 * 1 strip loin steak

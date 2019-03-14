@@ -24,7 +24,7 @@ Makes 4 portions
 7. Add the shredded kombu if using
 8. Simmer for 30 minutes
 9. Turn heat back to medium-high
-10. Add fish fillets and basil and cover
+10. Add fish fillets and basil and cover pot
 11. Let cook for 5 minutes
 12. Season to taste with salt and pepper
 13. Serve over prepared cous-cous or toasted bread

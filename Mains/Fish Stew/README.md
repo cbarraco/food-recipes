@@ -5,7 +5,7 @@ Makes 4 portions
 # Ingredients
 * 2 cloves of sliced garlic
 * 1 diced onion
-* 1 sliced fennel
+* 1 sliced bulb of fennel
 * 2 tablespoons of extra virgin olive oil
 * 1 jar of passata
 * 1 cup of white wine

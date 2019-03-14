@@ -1,8 +1,8 @@
-#Sicilian Fish Stew
+# Sicilian Fish Stew
 
 Makes 4 portions
 
-#Ingredients
+# Ingredients
 * 2 cloves of sliced garlic
 * 1 diced onion
 * 1 sliced fennel
@@ -14,7 +14,7 @@ Makes 4 portions
 * 0.5 cups of shredded dried kombu (optional)
 * 1 handful of fresh basil
 
-#Instructions
+# Instructions
 1. Add the extra virgin olive oil, garlic, onion, and fennel to a large medium-high heat lidded pot
 2. Sweat the garlic, onion, and fennel for 5 minutes
 3. Add the fish sauce and deglaze for 1 minute until evaporated
@@ -29,7 +29,7 @@ Makes 4 portions
 12. Season to taste with salt and pepper
 13. Serve over prepared cous-cous or toasted bread
 
-#For Cous-Cous:
+# For Cous-Cous:
 1. Add 2 cups of dried cous-cous to a large bowl
 2. Cover with 4 cups of water and cover with lid
 3. Let sit for 10 minutes until fully absorbed

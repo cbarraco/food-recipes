@@ -2,6 +2,7 @@
 
 ## Ingredients
 1 cup of coarse ground coffee
+
 6 cups of filtered water
 
 ## Instructions

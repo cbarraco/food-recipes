@@ -1,8 +1,8 @@
 # Cold Brew Coffee
 
 ## Ingredients
-1. 1 cup of coarse ground coffee
-2. 6 cups of filtered water
+1 cup of coarse ground coffee
+6 cups of filtered water
 
 ## Instructions
 1. Mix the ground coffee and 6 cups of filtered water in a pitcher

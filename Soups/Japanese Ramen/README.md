@@ -1,12 +1,13 @@
-#Salted Pork Ramen
+# Salted Pork Ramen
 
 Makes 4 portions
-##Ingredients
-###Salted pork
+
+## Ingredients
+### Salted pork
 * 1 pound of pork loin
 * 1 teaspoon of salt
 
-###Broth
+### Broth
 * 6 cups of water
 * 1 thumb of skinned and sliced ginger root
 * 3 cloves of crushed garlic
@@ -16,17 +17,17 @@ Makes 4 portions
 * 1 teaspoons of salt
 * 1 teaspoons of sesame oil
 
-###Noodles
+### Noodles
 * 9 ounces of soba noodles
 * 8 cups of water
 * 2 tablespoons of baking soda
 
-###Toppings
+### Toppings
 * 2 boiled eggs
 * 2 handfuls of bean sprouts
 * 2 stalks of green onions
 
-##Instructions
+## Instructions
 1. Rub salt on the pork and let it sit in the fridge overnight.
 2. Add the water, ginger root, garlic, green onions, and salted pork to the pot and bring it to a  boil.
 3. Simmer the broth for 1.5 hours.

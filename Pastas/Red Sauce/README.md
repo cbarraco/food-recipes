@@ -1,6 +1,6 @@
-#Red Sauce
+# Red Sauce
 
-##Ingredients
+## Ingredients
 * 3 tablespoons of extra virgin olive oil
 * 1 tablespoon of butter
 * 5 medium sized roughly chopped tomatoes
@@ -9,7 +9,7 @@
 * 1 tablespoon of oregano
 * 1 sprig of basil leaves
 
-##Instructions
+## Instructions
 1. Add the olive oil, butter, garlic, onion, and oregano to a medium heat pot.
 2. Season the onions and garlic.
 3. Cook for about 5 minutes stirring constantly until onions are translucent.

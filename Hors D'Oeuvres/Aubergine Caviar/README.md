@@ -1,12 +1,12 @@
-#Eggplant Canope
+# Eggplant Canope
 
-##Ingredients
+## Ingredients
 * 1 eggplant
 * 4 cloves of sliced garlic
 * 1 tablespoon of butter
 * 1 teaspoon of crushed dried rosemary
 
-##Instructions
+## Instructions
 1. Cut the eggplant in half lengthways
 2. Score the eggplant flesh with a checkerboard pattern
 3. Stuff the garlic slices into the scores of the eggplant

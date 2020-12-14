@@ -1,8 +1,8 @@
 # Herb Infused Clarified Butter
 
 ## Ingredients
-1. 1 pound of unsalted butter
-2. 1 sprig of some savoury herb (rosemary, sage, thyme, etc.)
+* 1 pound of unsalted butter
+* 1 sprig of some savoury herb (rosemary, sage, thyme, etc.)
 
 ## Instructions
 1. Melt the butter on a low heat
